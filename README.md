@@ -23,7 +23,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="532" alt="image" src="https://github.com/user-attachments/assets/1d399ebc-9ca6-4bf5-bbab-2faf92caae7b" />
+![image](https://github.com/user-attachments/assets/b5011df3-a1f0-4e9f-afe9-ab63c352623c)
+
 
 ## RESULT:
 Thus the program to convert a 23.65 into 25 using pointer has been executed successfully.
@@ -62,7 +63,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="404" alt="image" src="https://github.com/user-attachments/assets/513bad76-5a52-4f4a-95d1-279032509565" />
+![image](https://github.com/user-attachments/assets/0fe8c5ef-a25a-4779-bd97-7cf98eab06da)
+
 	
 ## RESULT:
 
@@ -110,7 +112,8 @@ int main() {
 
 ```
 ## OUTPUT:
-<img width="485" alt="image" src="https://github.com/user-attachments/assets/ffe22207-f73b-4b2f-8f2e-9474d61f8dbc" />
+![image](https://github.com/user-attachments/assets/ac92c452-a0a1-44c5-b2c9-a7dd92f6bb40)
+
 
 ## RESULT:
 
@@ -166,7 +169,8 @@ int main() {
 
 ```
 ## OUTPUT:
-<img width="414" alt="image" src="https://github.com/user-attachments/assets/98896bfe-007a-4125-b2fb-169faf6e32fa" />
+![image](https://github.com/user-attachments/assets/c452946c-2004-4856-b493-0bc00cf5594d)
+
 
 ## RESULT:
 
@@ -213,7 +217,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-<img width="374" alt="image" src="https://github.com/user-attachments/assets/eaa1b352-d0c7-46ff-be08-c0de7e87e6fa" />
+![image](https://github.com/user-attachments/assets/6f1abf01-fb42-405e-bf14-99ede04c1fa3)
+
 
 ## RESULT:
 
